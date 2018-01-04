@@ -16,6 +16,9 @@
 
 ## 相关截图
 1. 模板截图
+
 ![模板截图](https://github.com/ibrothergang/AndroidTemplate/blob/master/XFeatureDemoActivity02.png)
+
 2. 使用方式
+
 ![使用方式](https://github.com/ibrothergang/AndroidTemplate/blob/master/XFeatureDemoActivity01.png)
